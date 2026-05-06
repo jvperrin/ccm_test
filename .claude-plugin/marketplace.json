@@ -1,0 +1,14 @@
+{
+  "name": "jvperrin-plugins",
+  "owner": {
+    "name": "jvperrin",
+    "description": "Test plugins"
+  },
+  "plugins": [
+    {
+      "name": "test",
+      "source": "./plugins/test",
+      "description": "A test"
+    }
+  ]
+}
